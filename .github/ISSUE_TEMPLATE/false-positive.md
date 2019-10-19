@@ -1,6 +1,6 @@
 ---
 name: False Positive
-about: Describe this issue template's purpose here.
+about: Describe a false positive
 title: 'False Positive | '
 labels: False Positive
 assignees: Clientastisch
@@ -17,4 +17,4 @@ assignees: Clientastisch
 **Cardinal Version: 
 **Spigot Version:
 
-**Attached Video**
+**Attached Video  (Required)**

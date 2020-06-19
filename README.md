@@ -20,6 +20,7 @@ First navigate to the [**release**](https://github.com/Clientastisch/Cardinal-An
 
 # Commands
 
+```
 cac flag    - Shows the flags/alerts
 cac ban     - Bans a player permanently
 cac unban   - Unbans a player
@@ -32,6 +33,7 @@ cac reboot  - Restarts the plugin
 cac reload  - Reloads configurations
 cac export  - Export the current settings into a single file
 cac import  - Import a setting from a file
+```
 
 
 ## Addons ([**documentation**](http://cac.dodo1213.de/doc/allclasses-noframe.html))

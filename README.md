@@ -110,21 +110,6 @@ public class Core implements Addon {
 5. Export your addon to `plugins//CAC//addons`
 6. Reload your server or use `/cac addon load <addon>` and you're done!
 
-## Database
-
-Table `banData`
-
-| uniqueId | reason | remaining | replayID |
-| -------- | ------ | --------- | -------- |
-|          |        |           |          |
-
-Table `reportData`
-
-| uniqueId | reports |
-| -------- | ------- |
-|          |         |
-
-
 ## Power of addons
 
 Addons are supported for every [**Spigot**](https://github.com/SpigotMC) version on which Cardinal-Anticheat is supported too. This gives you the ability to create multiversion extensions. Futhermore, you get access to a [**bunch of events**](http://cac.dodo1213.de/doc/allclasses-noframe.html) which are either packet or spigot based and access to some player-data collected by the anticheat which gives you some additional information which spigot doesn't provide on its own.

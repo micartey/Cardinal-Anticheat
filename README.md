@@ -69,7 +69,7 @@ However, in case you want PvPLounge users allow to playing on your server, there
 
 
 # Installation
-First navigate to the [**release**](https://github.com/Clientastisch/Cardinal-Anticheat/releases) tab and download the newest version available. After the download move the `CAC.jar` into the `plugins` folder. The `CACApi.jar` **is only for development purpose** and should not be moved inside the `plugins` folder too.
+First navigate to the [**release**](https://github.com/Clientastisch/Cardinal-Anticheat/releases) tab and download the newest version available. After the download move the `CAC.jar` into the `plugins` folder. The `CACApi.jar` **is only for development purpose** and should not be moved inside the `plugins` folder too. Reload your server and you're ready to go :)
 
 
 ## Addons ([**documentation**](http://cac.dodo1213.de/doc/allclasses-noframe.html))
@@ -112,13 +112,13 @@ public class Core implements Addon {
 
 ## Database
 
-The table `banData` looks like following
+Table `banData`
 
 | uniqueId | reason | remaining | replayID |
 | -------- | ------ | --------- | -------- |
 |          |        |           |          |
 
-The table `reportData` looks like following
+Table `reportData`
 
 | uniqueId | reports |
 | -------- | ------- |

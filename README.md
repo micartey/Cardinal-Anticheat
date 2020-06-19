@@ -1,6 +1,6 @@
 # Cardinal-Anticheat
 
-<img src="http://167.86.120.207/img/banner.png">
+<img src="http://cac.dodo1213.de/img/banner.png">
 
 <div align="center">
     <a href="https://link.lukasl.dev/cacdiscord">
@@ -18,7 +18,7 @@ Cardinal-Anticheat is a **free** [**Spigot**](https://github.com/SpigotMC) antic
 
 First navigate to the [**release**](https://github.com/Clientastisch/Cardinal-Anticheat/releases) tab and download the newest version available. After the download move the `CAC.jar` into the `plugins` folder. The `CACApi.jar` **is only for development purpose** and should not be moved inside the `plugins` folder too.
 
-## Addons ([**documentation**](http://167.86.120.207/doc/allclasses-noframe.html))
+## Addons ([**documentation**](http://cac.dodo1213.de/doc/allclasses-noframe.html))
 
 1. First things first, download the `CACApi.jar` of the newest [**release**](https://github.com/Clientastisch/Cardinal-Anticheat/releases)
 2. Add `CACApi.jar` as you dependency. It's **only** a placeholder, nothing you should move inside your `plugins` folder
@@ -59,7 +59,7 @@ public class Core implements Addon {
 
 ## Power of addons
 
-Addons are supported for every [**Spigot**](https://github.com/SpigotMC) version on which Cardinal-Anticheat is supported too. This gives you the ability to create multiversion extensions. Futhermore, you get access to a [**bunch of events**](http://167.86.120.207/doc/allclasses-noframe.html) which are either packet or spigot based and access to some player-data collected by the anticheat which gives you some additional information which spigot doesn't provide on its own.
+Addons are supported for every [**Spigot**](https://github.com/SpigotMC) version on which Cardinal-Anticheat is supported too. This gives you the ability to create multiversion extensions. Futhermore, you get access to a [**bunch of events**](http://cac.dodo1213.de/doc/allclasses-noframe.html) which are either packet or spigot based and access to some player-data collected by the anticheat which gives you some additional information which spigot doesn't provide on its own.
 
 ### Bugs & False positives
 

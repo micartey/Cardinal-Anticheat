@@ -3,7 +3,11 @@
 <img src="http://167.86.120.207/img/banner.png">
 
 <div align="center">
-    
+    <a href="https://link.lukasl.dev/cacdiscord">
+        <img
+            height="30" src="https://img.shields.io/discord/647922123192533022.svg?logo=discord&style=for-the-badge"
+        />
+    </a>
 </div>
 
 ## Disclaimer
@@ -52,6 +56,10 @@ public class Core implements Addon {
 
 5. Export your addon to `plugins//CAC//addons`
 6. Reload your server or use `/cac addon load <addon>` and you're done!
+
+## Power of addons
+
+Addons are supported for every [**Spigot**](https://github.com/SpigotMC) version on which Cardinal-Anticheat is supported. This gives you the ability to create multiversion extensions. Futhermore, you get access to a [**bunch of events**](http://167.86.120.207/doc/allclasses-noframe.html) which are either packet or spigot based.
 
 ### Bugs & False positives
 

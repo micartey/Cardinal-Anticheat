@@ -3,7 +3,7 @@
 <img src="http://167.86.120.207/img/banner.png">
 
 <div align="center">
-[![Discord](https://img.shields.io/discord/463752820026376202.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/zxSwN8Z)
+    
 </div>
 
 ## Disclaimer
@@ -53,6 +53,7 @@ public class Core implements Addon {
 5. Export your addon to `plugins//CAC//addons`
 6. Reload your server or use `/cac addon load <addon>` and you're done!
 
-##Bugs
+### Bugs & False positives
 
-###How to handle bugs
+If any bugs or false positives occurre **report** them [**here**](https://github.com/Clientastisch/Cardinal-Anticheat/issues/new/choose). <br>
+Otherwise I'll probably never notice them

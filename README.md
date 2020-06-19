@@ -16,6 +16,8 @@ Cardinal-Anticheat is a **free** [**Spigot**](https://github.com/SpigotMC) antic
 
 Cardinal-Anticheat also contains a custom build-in replay system which is quite usable to check whether a player was cheating or not. The output-file is a .zip file ~ 5MB depending on the amount of worlds used and their size.
 
+[**Download**](#download)
+
 ## Commands
 
 ```
@@ -65,6 +67,7 @@ These violations aren't the fault of Cardinal-Anticheat because no other modific
 However, in case you want PvPLounge users allow to playing on your server, there's an addon available on my discord (see below) in #addons
 
 ## Installation
+#download
 
 First navigate to the [**release**](https://github.com/Clientastisch/Cardinal-Anticheat/releases) tab and download the newest version available. After the download move the `CAC.jar` into the `plugins` folder. The `CACApi.jar` **is only for development purpose** and should not be moved inside the `plugins` folder too.
 

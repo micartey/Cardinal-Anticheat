@@ -51,9 +51,9 @@ CAC.config.export - Allows you to export settings
 CAC.replay.watch  - Allows you to watch a replay
 CAC.replay.gui    - Allows you to see a list of all replays ingame
 ```
-
 <div id="download" />
-# Important
+
+## Important
 
 If you're using multiversion to allow players of any versions to join false positives will occurre...
 In case your server is on 1.8 and players with versions higher than that are able to you disable following detections:
@@ -68,7 +68,7 @@ These violations aren't the fault of Cardinal-Anticheat because no other modific
 However, in case you want PvPLounge users allow to playing on your server, there's an addon available on my discord (see below) in #addons
 
 
-## Installation
+# Installation
 First navigate to the [**release**](https://github.com/Clientastisch/Cardinal-Anticheat/releases) tab and download the newest version available. After the download move the `CAC.jar` into the `plugins` folder. The `CACApi.jar` **is only for development purpose** and should not be moved inside the `plugins` folder too.
 
 

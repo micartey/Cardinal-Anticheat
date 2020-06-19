@@ -66,10 +66,11 @@ After testing different legit clients, I came to the conclusion that PvPLounge i
 These violations aren't the fault of Cardinal-Anticheat because no other modification was detected for Blockhit or NoSlowdown. **The only legit thing out there is still vanilla!**
 However, in case you want PvPLounge users allow to playing on your server, there's an addon available on my discord (see below) in #addons
 
+<div id="download"
 ## Installation
-<div id="download" />
 
 First navigate to the [**release**](https://github.com/Clientastisch/Cardinal-Anticheat/releases) tab and download the newest version available. After the download move the `CAC.jar` into the `plugins` folder. The `CACApi.jar` **is only for development purpose** and should not be moved inside the `plugins` folder too.
+ />
 
 ## Addons ([**documentation**](http://cac.dodo1213.de/doc/allclasses-noframe.html))
 

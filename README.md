@@ -1,4 +1,4 @@
-# Cardinal-Anticheat
+# Cardinal-Anticheat 1.8-1.12
 
 <img src="http://cac.dodo1213.de/img/banner.png">
 
@@ -12,7 +12,7 @@
 
 ## Disclaimer
 
-Cardinal-Anticheat is a **free** [**Spigot**](https://github.com/SpigotMC) anticheat which blocks most of the known cheats out there. Keep in mind, that Cardinal-Anticheat is still in beta, false postives may occurre...
+Cardinal-Anticheat is a **free** [**Spigot**](https://github.com/SpigotMC) anticheat which blocks most of the known cheats out there. Keep in mind, that Cardinal-Anticheat is still in beta, false postives may occurre... 
 
 ## Installation
 

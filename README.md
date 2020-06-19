@@ -53,7 +53,7 @@ CAC.replay.gui    - Allows you to see a list of all replays ingame
 ```
 
 <div id="download" />
-## Important
+# Important
 
 If you're using multiversion to allow players of any versions to join false positives will occurre...
 In case your server is on 1.8 and players with versions higher than that are able to you disable following detections:

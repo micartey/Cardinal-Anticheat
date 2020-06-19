@@ -18,6 +18,22 @@ Cardinal-Anticheat is a **free** [**Spigot**](https://github.com/SpigotMC) antic
 
 First navigate to the [**release**](https://github.com/Clientastisch/Cardinal-Anticheat/releases) tab and download the newest version available. After the download move the `CAC.jar` into the `plugins` folder. The `CACApi.jar` **is only for development purpose** and should not be moved inside the `plugins` folder too.
 
+# Commands
+
+cac flag    - Shows the flags/alerts
+cac ban     - Bans a player permanently
+cac unban   - Unbans a player
+cac info    - Tells you whether a player is banned or not
+cac iptable - Adds the ip-address of a player to the firewall rule and prevents any further communication
+cac replay  - Watch a replay which has been recorded before
+cac report  - A custom report system only for stuffs in which each flag will be a 'report' which will be stored
+cac reset   - Resets the violations of a player
+cac reboot  - Restarts the plugin
+cac reload  - Reloads configurations
+cac export  - Export the current settings into a single file
+cac import  - Import a setting from a file
+
+
 ## Addons ([**documentation**](http://cac.dodo1213.de/doc/allclasses-noframe.html))
 
 1. First things first, download the `CACApi.jar` of the newest [**release**](https://github.com/Clientastisch/Cardinal-Anticheat/releases)

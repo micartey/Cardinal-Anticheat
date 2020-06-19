@@ -27,7 +27,6 @@ First navigate to the [**release**](https://github.com/Clientastisch/Cardinal-An
 ```java
 import me.clientastisch.extension.Extension;
 import me.clientastisch.extension.impl.Addon;
-import net.clientastisch.events.FlagEvent;
 
 public class Core implements Addon {
 

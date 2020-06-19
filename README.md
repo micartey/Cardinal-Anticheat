@@ -62,7 +62,7 @@ After testing different legit clients, I came to the conclusion that PvPLounge i
 + NoSlowdown
 
 These violations aren't the fault of Cardinal-Anticheat because no other modification was detected for Blockhit or NoSlowdown. **The only legit thing out there is still vanilla!**
-However in case you want PvPLounge users allow to play on servers which use Cardinal Anticheat, there's an addon available on my discord (see below) in #addons
+However, in case you want PvPLounge users allow to playing on your server, there's an addon available on my discord (see below) in #addons
 
 ## Installation
 

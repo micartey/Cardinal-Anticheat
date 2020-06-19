@@ -1,5 +1,7 @@
 # Cardinal-Anticheat
 
+<img src="http://167.86.120.207/img/banner.png">
+
 <div align="center">
     <a href="https://link.lukasl.dev/discord">
         <img
@@ -10,14 +12,16 @@
 
 ## Disclaimer
 
+Cardinal Anticheat is a **free** [**Spigot**](https://github.com/SpigotMC) anticheat which blocks most of the known cheats out there.
+
 ## Installation
 
-First navigate to the [**release**](https://github.com/Clientastisch/Cardinal-Anticheat/releases) tab and download the newest version available.
+First navigate to the [**release**](https://github.com/Clientastisch/Cardinal-Anticheat/releases) tab and download the newest version available. After the download move the `CAC.jar` into the `plugins` folder. The `CACApi.jar` **is only for development purpose** and should not be moved inside the `plugins` folder too.
 
 ## Addons
 
 1. First things first, download the `CACApi.jar` of the newest [**release**](https://github.com/Clientastisch/Cardinal-Anticheat/releases)
-2. Add `CACApi.jar` as you dependency. It's **only** a placeholder, nothing you should do inside your `plugins` folder
+2. Add `CACApi.jar` as you dependency. It's **only** a placeholder, nothing you should move inside your `plugins` folder
 3. Instead of `extends JavaPlugin` you have to `implement Addon` which requires two methods:
 
 ```java
@@ -50,5 +54,5 @@ public class Core implements Addon {
 }
 ```
 
-5. Export you addon to `plugins//CAC//addons`
+5. Export your addon to `plugins//CAC//addons`
 6. Reload your server or use `/cac addon load <addon>` and you're done!

@@ -3,16 +3,12 @@
 <img src="http://167.86.120.207/img/banner.png">
 
 <div align="center">
-    <a href="https://link.lukasl.dev/cacdiscord">
-        <img
-            height="30" src="https://img.shields.io/discord/432617716961116180.svg?logo=discord&style=for-the-badge"
-        />
-    </a>
+        [![Discord](https://img.shields.io/discord/647922123192533022.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://link.lukasl.dev/cacdiscord)
 </div>
 
 ## Disclaimer
 
-Cardinal Anticheat is a **free** [**Spigot**](https://github.com/SpigotMC) anticheat which blocks most of the known cheats out there. Keep in mind, that Cardinal Anticheat is still in beta, false postives may occurre...
+Cardinal-Anticheat is a **free** [**Spigot**](https://github.com/SpigotMC) anticheat which blocks most of the known cheats out there. Keep in mind, that Cardinal-Anticheat is still in beta, false postives may occurre...
 
 ## Installation
 
@@ -56,3 +52,7 @@ public class Core implements Addon {
 
 5. Export your addon to `plugins//CAC//addons`
 6. Reload your server or use `/cac addon load <addon>` and you're done!
+
+##Bugs
+
+###How to handle bugs

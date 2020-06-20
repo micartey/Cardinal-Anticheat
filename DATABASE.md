@@ -14,7 +14,7 @@
     </a>
 </div>
 
-## Database
+## Database tables
 
 Table `banData`
 

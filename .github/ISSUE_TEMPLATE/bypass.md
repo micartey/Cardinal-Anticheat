@@ -7,11 +7,12 @@ assignees: Clientastisch
 
 ---
 
-**Hack Client:
-**Hacking Type:
-**Link To Hacked Client:
+Hack Client:
+Hacking Type:
 
-**Cardinal Version: 
-**Spigot Version:
+Link To Hacked Client:
+
+Cardinal Version: 
+Spigot Version:
 
 **Attached Video (Required)**

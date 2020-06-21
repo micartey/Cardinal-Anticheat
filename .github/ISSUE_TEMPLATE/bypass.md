@@ -9,7 +9,7 @@ assignees: Clientastisch
 
 Hack Client:
 
->Hacking Type:
+Hacking Type:
 
 Link To Hacked Client:
 
@@ -17,4 +17,4 @@ Cardinal Version:
 
 Spigot Version:
 
-**Attached Video (Required)**
+> **Attached Video (Required)**

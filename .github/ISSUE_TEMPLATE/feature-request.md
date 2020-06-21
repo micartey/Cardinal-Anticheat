@@ -7,4 +7,4 @@ assignees: Clientastisch
 
 ---
 
-**What features would you like added? Describe them here**
+What features would you like added? Describe them here

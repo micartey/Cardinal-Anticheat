@@ -15,8 +15,8 @@ assignees: Clientastisch
 
 
 
-**Cardinal Version:
-**Spigot Version:
+**Cardinal Version:**
+**Spigot Version:**
 
 
 **Attached Files**

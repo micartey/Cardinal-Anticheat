@@ -7,16 +7,17 @@ assignees: Clientastisch
 
 ---
 
-**What type of bug you want to report? Describe it here**
+What type of bug you want to report? Describe it here
 
 
 
-**When the bug occurrs?**
+When the bug occurrs?
 
 
 
-**Cardinal Version:
-**Spigot Version:
+Cardinal Version:
+
+Spigot Version:
 
 
-**Attached Files**
+> **Attached Files  (Required)**

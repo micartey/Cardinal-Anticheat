@@ -7,14 +7,15 @@ assignees: Clientastisch
 
 ---
 
-**How do you trigger the false positive? Describe it here**
+How do you trigger the false positive? Describe it here
 
 
-**Verbose Message**
+Verbose Message
 
 
 
-**Cardinal Version: 
-**Spigot Version:
+Cardinal Version: 
 
-**Attached Video  (Required)**
+Spigot Version:
+
+> **Attached Video  (Required)**

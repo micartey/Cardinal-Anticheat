@@ -11,7 +11,7 @@ What type of bug you want to report? Describe it here
 
 
 
-When the bug occurrs?
+When does the bug occurrs?
 
 
 

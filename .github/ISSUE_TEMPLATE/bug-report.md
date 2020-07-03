@@ -10,9 +10,7 @@ assignees: Clientastisch
 What type of bug you want to report? Describe it here
 
 
-
-When does the bug occurrs?
-
+When does the bug occurr?
 
 
 Cardinal Version:

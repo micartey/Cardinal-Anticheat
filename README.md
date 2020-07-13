@@ -78,7 +78,7 @@ However, in case you want PvPLounge users allow to playing on your server, there
 
 # Installation
 
-First navigate to the [**release**](https://github.com/Clientastisch/Cardinal-Anticheat/releases) tab and download the newest version available. After the download move the `Cardinal.jar` into the `plugins` folder. The `CACApi.jar` **is only for development purpose** and should not be moved inside the `plugins` folder. Reload your server and you're ready to go :)
+First navigate to the [**release**](https://github.com/Clientastisch/Cardinal-Anticheat/releases) tab and download the newest version available. After the download move the `Cardinal.jar` into the `plugins` folder. The `Extension.jar` **is only for development purpose** and should not be moved inside the `plugins` folder. Reload your server and you're ready to go :)
 
 ### Bugs & False positives
 

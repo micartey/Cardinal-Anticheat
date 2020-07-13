@@ -17,8 +17,8 @@
 
 ## Addons
 
-1. First things first, download the `CACApi.jar` of the newest [**release**](https://github.com/Clientastisch/Cardinal-Anticheat/releases)
-2. Add `CACApi.jar` as your dependency. It's **only** a placeholder, nothing you should put inside your `plugins` folder
+1. First things first, download the `Extension.jar` from the  [**dependencies**](https://github.com/Clientastisch/Cardinal-Anticheat/tree/master/dependencies)
+2. Add `Extension.jar` as your dependency. It's **only** a placeholder, nothing you should put inside your `plugins` folder
 3. Instead of `extends JavaPlugin` you have to `implement Addon` which requires two methods:
 
 ```java

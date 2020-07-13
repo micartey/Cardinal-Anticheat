@@ -91,7 +91,7 @@ public void onFlag(CheckFireEvent event) {
 }
 ```
 
-Keep in mind, that asynchronous events **cannot** be `cancelled`. Therefore set `isSync` to true.
+Keep in mind, that asynchronous events **cannot** be `cancelled`. Therefore set `isSync` to `true`.
 
 ## Commands
 

@@ -14,6 +14,29 @@
     </a>
 </div>
 
+## 0.9993
+
+```text
+Removed checks
+    - SporadicAiming
+
+Added checks
+    - AimAssist Type C
+
+Chnaged default config:
+    - disabled Blink Type A
+    - disabled Blink Type B
+```
+
+## 0.9992
+
+```text
+Cardinal-Anticheat loader
+
+Updates don't have to be downloaded manually anymore.
+You will always be up-to-date
+```
+
 ## 0.9991
 
 ```text
@@ -26,11 +49,11 @@ Recoded Command-system
     - New command 'cac report'
 
 Removed checks
-    - NetFrequence Type B
+    - NetFrequence Type C
     - AimAssist Type C
     - AimAssist Type D
 
 Added checks
-    - NetFrequence Type B
+    - NetFrequence Type C
     - Blink Type C
 ```

@@ -22,10 +22,17 @@ Removed checks
 
 Added checks
     - AimAssist Type C
+    - AimAssist Type D
+    - PingSpoof
 
 Chnaged default config:
+    - disabled AimAssist Type A
     - disabled Blink Type A
     - disabled Blink Type B
+
+Important:
+    In case you already used Cardinal before version 0.9991,
+    please delete the config files for AimAssist Type C and D
 ```
 
 ## 0.9992

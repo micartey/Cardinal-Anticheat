@@ -23,6 +23,7 @@ Removed checks
 Added checks
     - AimAssist Type C
     - AimAssist Type D
+    - ChestAura
     - PingSpoof
 
 Chnaged default config:

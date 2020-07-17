@@ -1,5 +1,5 @@
 
-# Cardinal-Anticheat ([**documentation**](http://cac.dodo1213.de/doc/allclasses-noframe.html))
+# Cardinal-Anticheat Addons
 
 <img
  src="http://cac.dodo1213.de/img/banner.png"
@@ -18,7 +18,7 @@
 ## Addons
 
 1. First things first, download the `Extension.jar` from the  [**dependencies**](https://github.com/Clientastisch/Cardinal-Anticheat/tree/master/dependencies)
-2. Add `Extension.jar` as your dependency. It's **only** a placeholder, nothing you should put inside your `plugins` folder
+2. Add `Extension.jar` as your dependency. It's **only** a placeholder and does **not** belong inside your `plugins` folder
 3. Instead of `extends JavaPlugin` you have to `implement Addon` which requires two methods:
 
 ```java

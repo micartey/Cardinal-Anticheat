@@ -52,7 +52,7 @@ CAC.addon         - Allows you to manage addons
 CAC.proxy         - Allows you to join even though your ip might be a proxy
 CAC.config.import - Allows you to import settings
 CAC.config.export - Allows you to export settings
-CAC.replay.watch  - Allows you to watch a replay
+CAC.replay.watch  - Allows you to watch replays
 CAC.replay.gui    - Allows you to see a list of all replays ingame
 ```
 
@@ -78,7 +78,7 @@ However, in case you want PvPLounge users allow to playing on your server, there
 
 # Installation
 
-First navigate to the [**release**](https://github.com/Clientastisch/Cardinal-Anticheat/releases) tab and download the newest version available. After the download move the `Cardinal.jar` into the `plugins` folder. The `Extension.jar` **is only for development purpose** and should not be moved inside the `plugins` folder. Reload your server and you're ready to go :)
+First navigate to the [**release**](https://github.com/Clientastisch/Cardinal-Anticheat/releases) tab and download the newest version available. After the download move the `Cardinal.jar` into the `plugins` folder. Reload your server and you're ready to go :)
 
 ### Bugs & False positives
 

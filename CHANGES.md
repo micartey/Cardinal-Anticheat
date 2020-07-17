@@ -1,4 +1,4 @@
-# Cardinal-Anticheat 1.8-1.12
+# Cardinal-Anticheat Changes
 
 <img
  src="http://cac.dodo1213.de/img/banner.png"

@@ -14,6 +14,13 @@
     </a>
 </div>
 
+## 0.9994
+
+```text
+Debug log will now be stored in the cloud in case a player gets banned.
+This has the big advantage, that I'll understand more false positives.
+```
+
 ## 0.9993
 
 ```text

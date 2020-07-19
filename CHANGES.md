@@ -14,6 +14,20 @@
     </a>
 </div>
 
+## 0.9995
+
+```text
+Removed Check
+    - BlockDestroy
+
+Added Check
+    - Scaffold Type E
+    - Speed Type N
+
+Fixed checks
+    - ChestAura
+```
+
 ## 0.9994
 
 ```text
@@ -33,7 +47,7 @@ Added checks
     - ChestAura
     - PingSpoof
 
-Chnaged default config:
+Changed default config:
     - disabled AimAssist Type A
     - disabled Blink Type A
     - disabled Blink Type B

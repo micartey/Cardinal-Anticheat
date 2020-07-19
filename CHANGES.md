@@ -18,14 +18,17 @@
 
 ```text
 Removed Check
+    - DeathInteract Type A
     - BlockDestroy
 
 Added Check
     - Scaffold Type E
     - Speed Type N
 
-Fixed checks
+Fixed false positives
+    - FastLadder Type A
     - ChestAura
+    - PreAura
 ```
 
 ## 0.9994
@@ -69,14 +72,6 @@ You will always be up-to-date
 ## 0.9991
 
 ```text
-Fixed false positives
-    - Speed Type M
-    - Spider
-
-Recoded Command-system
-    - Improved tab-copletion
-    - New command 'cac report'
-
 Removed checks
     - NetFrequence Type C
     - AimAssist Type C
@@ -85,4 +80,12 @@ Removed checks
 Added checks
     - NetFrequence Type C
     - Blink Type C
+
+Fixed false positives
+    - Speed Type M
+    - Spider
+
+Recoded Command-system
+    - Improved tab-copletion
+    - New command 'cac report'
 ```

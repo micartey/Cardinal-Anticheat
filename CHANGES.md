@@ -29,6 +29,11 @@ Fixed false positives
     - FastLadder Type A
     - ChestAura
     - PreAura
+
+Changed default config:
+    - AimAssist Type C
+        - maxViolation: 1 -> 2
+        - delay: 120
 ```
 
 ## 0.9994

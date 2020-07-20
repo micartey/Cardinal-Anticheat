@@ -34,6 +34,8 @@ Changed default config:
     - AimAssist Type C
         - maxViolation: 1 -> 2
         - delay: 120
+    - Phase
+        - banType: kick -> none
 ```
 
 ## 0.9994

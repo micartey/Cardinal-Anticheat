@@ -22,6 +22,7 @@ Removed Check
     - BlockDestroy
 
 Added Check
+    - AimAssist Type E
     - Scaffold Type E
     - Speed Type N
 
@@ -30,10 +31,15 @@ Fixed false positives
     - ChestAura
     - PreAura
 
+    1.8 - 1.12:
+        - Speed Type B
+        - Blink Type C
+
+Fixed other
+    - Addon unloading
+    - Fly Type E
+
 Changed default config:
-    - AimAssist Type C
-        - maxViolation: 1 -> 2
-        - delay: 120
     - Phase
         - banType: kick -> none
 ```

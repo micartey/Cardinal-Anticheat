@@ -44,6 +44,13 @@ Fixed other
 Changed default config:
     - Phase
         - banType: kick -> none
+
+Replay System:
+    - Added BlockListener to detect block changes
+    - Fixed world loading issue
+
+Important:
+    Config changes will interfere with the documentation
 ```
 
 ## 0.9994

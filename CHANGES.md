@@ -22,12 +22,14 @@ Removed Check
     - BlockDestroy
 
 Added Check
+    - PacketAnalysis Type F
     - AimAssist Type E
     - Scaffold Type E
     - Speed Type N
 
 Fixed false positives
     - FastLadder Type A
+    - AimAssist Type C
     - ChestAura
     - PreAura
 

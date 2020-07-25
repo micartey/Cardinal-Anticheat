@@ -14,6 +14,20 @@
     </a>
 </div>
 
+## 0.9996
+
+```text
+Fixed false positives
+    - PacketAnalysis Type F
+
+Fixed force disable:
+    Force disabled checks won't be saved as disabled anymore
+
+Other:
+    Added command: /cac graph
+    Displays performance per tick in a graph
+```
+
 ## 0.9995
 
 ```text

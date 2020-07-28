@@ -76,7 +76,7 @@ These violations aren't the fault of Cardinal-Anticheat if they aren't possbile 
 
 By downloading Cardinal you automatically agree to the following conditions:
 
-+ It is prohibited to decompile the plugin
++ It is prohibited to decompile or modify the plugin in any way
 + It is prohibited to claim the plugin as you own
 + It is prohibited to hide the plugin in your plugin-list
 + It is permitted for the plugin to share data with the cloud

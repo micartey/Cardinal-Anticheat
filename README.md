@@ -20,7 +20,7 @@ Cardinal-Anticheat is a **free** [**Spigot**](https://github.com/SpigotMC) antic
 
 Cardinal-Anticheat also contains a custom build-in replay system which is quite usable to check whether a player was cheating or not. The output-file is a .zip file ~ 5MB depending on the amount of worlds used and their size.
 
-[**Download**](#download)
+[**Download**](#terms-of-use)
 
 ## Commands
 
@@ -55,10 +55,6 @@ CAC.config.export - Allows you to export settings
 CAC.replay.watch  - Allows you to watch replays
 CAC.replay.gui    - Allows you to see a list of all replays ingame
 ```
-
-<div
- id="download"
-/>
 
 ## Important
 

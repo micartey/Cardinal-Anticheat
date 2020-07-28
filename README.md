@@ -72,6 +72,17 @@ After testing different legit clients, I came to the conclusion that they are no
 
 These violations aren't the fault of Cardinal-Anticheat if they aren't possbile to reproduce with Vanilla. **The only legit thing out there is still vanilla!** However, in case you want those to allow those *legit-client* users playing on your server, there's an addon available on my discord in #addons
 
+## Terms of Use
+
+By downloading Cardinal you automatically agree to the following conditions:
+
++ It is prohibited to decompile the plugin
++ It is prohibited to claim the plugin as you own
++ It is prohibited to hide the plugin in your plugin-list
++ It is permitted for the plugin to share data with the cloud
+
+In case of a violation the plugin will be disabled and I may be even forced to take legal steps, especially if you should violate against `§1`. This is not an open source project and copyrighted.
+
 # Installation
 
 First navigate to the [**release**](https://github.com/Clientastisch/Cardinal-Anticheat/releases) tab and download the newest version available. After the download move the `Cardinal.jar` into the `plugins` folder. Reload your server and you're ready to go :)

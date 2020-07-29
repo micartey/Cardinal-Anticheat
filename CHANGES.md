@@ -17,8 +17,21 @@
 ## 0.9996
 
 ```text
+Removed check
+    - AimAssist Type E
+
+Added checks
+    - Scaffold Type F
+    - Scaffold Type G
+
+Recoded checks
+    - Range Type A
+        slightly more accurate than Type B and C
+
 Fixed false positives
     - PacketAnalysis Type F
+    - Blink Type C
+    - PingSpoof
 
 Fixed force disable:
     Force disabled checks won't be saved as disabled anymore
@@ -31,11 +44,11 @@ Other:
 ## 0.9995
 
 ```text
-Removed Check
+Removed checks
     - DeathInteract Type A
     - BlockDestroy
 
-Added Check
+Added checks
     - PacketAnalysis Type F
     - AimAssist Type E
     - Scaffold Type E
@@ -47,7 +60,7 @@ Fixed false positives
     - ChestAura
     - PreAura
 
-    1.8 - 1.12:
+    1.9 - 1.12:
         - Speed Type B
         - Blink Type C
 

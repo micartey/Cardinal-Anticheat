@@ -19,6 +19,8 @@
 ```text
 Removed check
     - AimAssist Type E
+    - Velocity Type B
+    - Velocity Type C
 
 Added checks
     - Scaffold Type F
@@ -33,8 +35,9 @@ Fixed false positives
     - Blink Type C
     - PingSpoof
 
-Fixed force disable:
-    Force disabled checks won't be saved as disabled anymore
+Fixes:
+    - Force disabled checks won't be saved as disabled anymore
+    - Flag bug
 
 Other:
     Added command: 'cac graph'

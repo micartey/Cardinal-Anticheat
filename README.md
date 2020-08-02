@@ -74,7 +74,6 @@ By downloading Cardinal you automatically agree to the following conditions:
 
 + It is prohibited to decompile or modify the plugin in any way
 + It is prohibited to claim the plugin as you own
-+ It is prohibited to hide the plugin in your plugin-list on purpose
 + It is permitted for the plugin to share data with the cloud, such as debug logs
 
 In case of a violation the plugin will be disabled and I may be even forced to take legal steps, especially if you should violate against `§1`. This is not an open source project and copyrighted.

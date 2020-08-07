@@ -14,6 +14,21 @@
     </a>
 </div>
 
+## 0.9997
+
+```text
+Fixed false positives
+    - KillAura Type A
+    - Range Type D
+    - Range Type E
+
+Changed default config:
+    - Range Type B
+        - toggle: true -> false
+    - Range Type C
+        - toggle: true -> false
+```
+
 ## 0.9996
 
 ```text

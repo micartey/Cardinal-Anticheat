@@ -17,7 +17,7 @@
 ## 0.9997
 
 ```text
-Fixed false positives
+Fixed false positives for high ping
     - KillAura Type A
     - Range Type D
     - Range Type E

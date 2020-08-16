@@ -14,6 +14,18 @@
     </a>
 </div>
 
+## 0.9998
+
+```text
+Added checks
+    - Range Type F
+
+Improved checks
+    - KillAura Type A
+
+Added description for some checks
+```
+
 ## 0.9997
 
 ```text

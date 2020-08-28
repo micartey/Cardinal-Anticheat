@@ -14,6 +14,22 @@
     </a>
 </div>
 
+## 0.9999
+
+```text
+Improved checks
+    - KillAura Type A
+    - AimAssist Type F
+
+Removed checks
+    - AntiTeams
+
+Fixed exceptions
+    - KeepAlive Timeout for 1.12
+
+Fixed disabling issue
+```
+
 ## 0.9998
 
 ```text
@@ -34,7 +50,7 @@ Fixed false positives for high ping
     - Range Type D
     - Range Type E
 
-Changed default config:
+Changed default config
     - Range Type B
         - toggle: true -> false
     - Range Type C

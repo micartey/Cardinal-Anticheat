@@ -126,7 +126,7 @@ public class Violation implements ViolationDialect {
     }
 
     /**
-     * Removed the violations which have been collected so far
+     * Remove violations which have been collected so far
      *
      * @param uniqueId UUID of the player
      */

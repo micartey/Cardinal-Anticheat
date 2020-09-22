@@ -14,6 +14,19 @@
     </a>
 </div>
 
+## 1.0
+
+```text
+Added checks
+    - KillAura Type B
+    - KillAura Type C
+    - AimAssist Type G
+
+Other:
+    • Removed database, therefore added a dialect layer
+      so no fixed database is required and thus exchangeable
+```
+
 ## 0.9999
 
 ```text

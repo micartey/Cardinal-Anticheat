@@ -17,7 +17,7 @@
 
 ## Dialects
 
-A dialect is used to abstract the database handling by loading the dialect in form of an [addon](https://github.com/Clientastisch/Cardinal-Anticheat/blob/master/ADDON.md). Creating your own dialect secures the data usage and guarantees the protection of sensitive data, since Cardinal has neither access to the connection nor to any credentials which are typical required. In addition, this gives you the opportunity to migrate to any form of databse you desire.
+A dialect is used to abstract the database handling by loading the dialect in form of an [addon](https://github.com/Clientastisch/Cardinal-Anticheat/blob/master/ADDON.md). Creating your own dialect secures the data usage and guarantees the protection of sensitive data, since Cardinal has neither access to the connection nor to any credentials which are typically required. In addition, this gives you the opportunity to migrate to any form of database you desire.
 
 ## Creating a dialect
 

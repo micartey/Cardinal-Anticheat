@@ -14,12 +14,11 @@
     </a>
 </div>
 
-## 1.0
+## 1.0001
 
 ```text
 Added checks
     - KillAura Type B
-    - KillAura Type C
     - AimAssist Type G
 
 Other:

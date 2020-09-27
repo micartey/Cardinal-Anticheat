@@ -7,7 +7,7 @@
 <div
  align="center">
     <a
-     href="https://link.lukasl.dev/cacdiscord">
+     href="https://go.lukasl.dev/cacdiscord">
         <img
             height="30" src="https://img.shields.io/discord/647922123192533022.svg?logo=discord&style=for-the-badge"
         />
@@ -81,6 +81,10 @@ In case of a violation the plugin will be disabled and I may be even forced to t
 # Installation
 
 First navigate to the [**release**](https://github.com/Clientastisch/Cardinal-Anticheat/releases) tab and download the newest version available. After the download move the `Cardinal.jar` into the `plugins` folder. Reload your server and you're ready to go :)
+
+In case you wan't to use the build in ban and report system, you need to download a database [dialect](https://github.com/Clientastisch/Cardinal-Anticheat/blob/master/DIALECT.md) either from [github](https://github.com/Clientastisch/Cardinal-Anticheat/tree/master/dialects) or [discord](https://go.lukasl.dev/cacdiscord). Move the addon into your `plugins//CAC//addons` folder, it'll be recognized, loaded and used by Cardinal and all database connections are handled by the addon, which provides better security.
+
+<hr >
 
 ### Bugs & False positives
 

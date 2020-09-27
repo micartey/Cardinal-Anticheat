@@ -7,7 +7,7 @@
 <div
  align="center">
     <a
-     href="https://link.lukasl.dev/cacdiscord">
+     href="https://go.lukasl.dev/cacdiscord">
         <img
             height="30" src="https://img.shields.io/discord/647922123192533022.svg?logo=discord&style=for-the-badge"
         />

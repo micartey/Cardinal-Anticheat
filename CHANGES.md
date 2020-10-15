@@ -14,6 +14,18 @@
     </a>
 </div>
 
+## 1.0002
+
+```text
+Added checks
+    - AntiBot Type A
+    - KillAura Type C
+    - Velocity Type B
+
+Other:
+    • Fixed 'cannot interact with itself' issue
+```
+
 ## 1.0001
 
 ```text

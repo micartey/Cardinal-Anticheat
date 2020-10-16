@@ -20,10 +20,12 @@
 Added checks
     - AntiBot Type A
     - KillAura Type C
+    - KillAura Type D
     - Velocity Type B
 
 Other:
     • Fixed 'cannot interact with itself' issue
+    • Added entity spawn hook to avoid duplicated entity ids
 ```
 
 ## 1.0001

@@ -14,6 +14,13 @@
     </a>
 </div>
 
+## 1.0003
+
+```text
+Added checks
+    - AntiHealth
+```
+
 ## 1.0002
 
 ```text

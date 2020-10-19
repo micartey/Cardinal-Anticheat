@@ -17,9 +17,6 @@
 ## 1.0003
 
 ```text
-Added checks
-    - AntiHealth
-
 Fixed checks
     - Range Type F
     - Hitbox Type A

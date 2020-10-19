@@ -19,6 +19,15 @@
 ```text
 Added checks
     - AntiHealth
+
+Fixed checks
+    - Range Type F
+    - Hitbox Type A
+    - KillAura Type C
+    - KillAura Type D
+
+Other:
+    • Added dialect timeout (500 ms)
 ```
 
 ## 1.0002

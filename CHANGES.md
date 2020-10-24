@@ -24,7 +24,7 @@ Fixed checks
     - KillAura Type D
 
 Other:
-    • Added dialect timeout (500 ms)
+    • Added realtime monitoring
 ```
 
 ## 1.0002

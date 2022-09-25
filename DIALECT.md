@@ -1,16 +1,27 @@
 
 # Cardinal-Anticheat Dialects
 
-<img
- src="http://cac.dodo1213.de/img/banner.png"
-/>
+<div align="center">
+    <img src="images/banner.png" />
+</div>
 
-<div
- align="center">
-    <a
-     href="https://go.lukasl.dev/cacdiscord">
+<br />
+
+<div align="center">
+    <img
+        src="https://img.shields.io/badge/Written%20in-java-%23EF4041?style=for-the-badge"
+        height="30"
+    />
+    <a href="https://go.lukasl.dev/cacdiscord">
+        <img 
+            src="https://img.shields.io/discord/647922123192533022?color=212121&label=Discord&logo=discord&logoColor=212121&style=for-the-badge"
+            height="30"
+        />
+    </a>
+    <a href="https://clientastisch.github.io/viro/documentation" target="_blank">
         <img
-            height="30" src="https://img.shields.io/discord/647922123192533022.svg?logo=discord&style=for-the-badge"
+            src="https://img.shields.io/badge/javadoc-reference-5272B4.svg?style=for-the-badge"
+            height="30"
         />
     </a>
 </div>
@@ -22,8 +33,6 @@ A dialect is used to abstract the database handling by loading the dialect in fo
 ## Creating a dialect
 
 Creating a dialect requires the implementation of `PunishDialect` and/or `ViolationDialect`. Both of the interfaces are generating required methods for their usage.
-
-<br />
 
 ### PunishDialect
 

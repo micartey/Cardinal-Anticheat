@@ -1,28 +1,67 @@
 # Cardinal-Anticheat 1.8-1.12
 
-<img
- src="http://cac.dodo1213.de/img/banner.png"
-/>
+<div align="center">
+    <img src="images/banner.png" />
+</div>
 
-<div
- align="center">
-    <a
-     href="https://go.lukasl.dev/cacdiscord">
+<br />
+
+<div align="center">
+    <img
+        src="https://img.shields.io/badge/Written%20in-java-%23EF4041?style=for-the-badge"
+        height="30"
+    />
+    <a href="https://go.lukasl.dev/cacdiscord">
+        <img 
+            src="https://img.shields.io/discord/647922123192533022?color=212121&label=Discord&logo=discord&logoColor=212121&style=for-the-badge"
+            height="30"
+        />
+    </a>
+    <a href="https://clientastisch.github.io/viro/documentation" target="_blank">
         <img
-            height="30" src="https://img.shields.io/discord/647922123192533022.svg?logo=discord&style=for-the-badge"
+            src="https://img.shields.io/badge/javadoc-reference-5272B4.svg?style=for-the-badge"
+            height="30"
         />
     </a>
 </div>
 
-## Disclaimer
+<br />
 
-Cardinal-Anticheat is a **free** [**Spigot**](https://github.com/SpigotMC) anticheat which blocks most of the known cheats out there. Keep in mind, that Cardinal-Anticheat is still in beta, false postives may occurre...
+<p align="center">
+  <a href="#-introduction">Introduction</a> |
+  <a href="#-terms-of-use">Getting started</a> |
+  <a href="https://github.com/Clientastisch/Cardinal-Anticheat/issues">Troubleshooting</a>
+</p>
+
+
+## 📚 Introduction
+
+Cardinal-Anticheat is a free spigot anticheat which blocks most of the known cheats out there. Keep in mind, that Cardinal-Anticheat is still in beta, false postives may occurre...
+
+![img](images/msedge_gqaBS6K5kn.gif)
 
 Cardinal-Anticheat also contains a custom build-in replay system which is quite usable to check whether a player was cheating or not. The output-file is a .zip file ~ 5MB depending on the amount of worlds used and their size.
 
-[**Download**](#terms-of-use)
+## 📄 Terms of Use
 
-## Commands
+**IMPORTANT NOTICE:** By downloading and using Cardinal-Anticheat you accept the following terms of use:
+
+- I allow the plugin to download source code from another computer
+- I understand that decomiling the source code is not allowed
+  - This includes the extraction and reuse of code parts
+
+If you have any questions about the backgrounds, please contact my discord
+
+## 📝 Getting Started
+
+Cardinal anti cheat is a great system with a lot of functionality. There are different things to consider for the different areas of application.
+
+First navigate to the [**release**](https://github.com/Clientastisch/Cardinal-Anticheat/releases) tab and download the newest version available. After the download move the jar file into the plugins folder. Reload your server and you're ready to go.
+
+- [Custom ban manager](#custom-ban-manager)
+- [Built-in ban manager](#built-in-ban-manager)
+
+### Commands
 
 ```text
 cac flag    - Shows the flags/alerts
@@ -39,7 +78,7 @@ cac export  - Export the current settings into a single file
 cac import  - Import a setting from a file
 ```
 
-## Permission
+### Permission
 
 ```text
 CAC.command       - Allows you to use most of the commands
@@ -56,23 +95,19 @@ CAC.replay.watch  - Allows you to watch replays
 CAC.replay.gui    - Allows you to see a list of all replays ingame
 ```
 
-## Important
+### Custom ban manager
 
-If you're using multiversion to allow players of any version to join false positives will occurre...
-In case your server is on 1.8 and players with versions higher than that are able to you disable at least following detections:
+By default Cardinal Anticheat doesn't handle a database connection. The reason is farily easy to understand. Cardinal Anticheat is a close source plugin whose source is never on the server physically. This has legitimate security and privacy concerns. 
 
-+ yMotion
-+ Speed Type A
+That's why you can tell cardinal anticheat in the `Config.yml` which commands should be executed in case of a ban etc.
 
-# Installation
+### Built-in ban system
 
-First navigate to the [**release**](https://github.com/Clientastisch/Cardinal-Anticheat/releases) tab and download the newest version available. After the download move the `Cardinal.jar` into the `plugins` folder. Reload your server and you're ready to go :)
+As already stated does Cardinal Anticheat not handle any database connections by default, however using the build-in ban system requires you to use a so called dialect which you have to write yourself. The documentation for writing a dialect is available [here](DIALECT.md).
 
-In case you wan't to use the build in ban and report system, you need to download a database [dialect](https://github.com/Clientastisch/Cardinal-Anticheat/blob/master/DIALECT.md) either from [github](https://github.com/Clientastisch/Cardinal-Anticheat/tree/master/dialects) or [discord](https://go.lukasl.dev/cacdiscord). Move the addon into your `plugins//CAC//addons` folder, it'll be recognized, loaded and used by Cardinal and all database connections are handled by the addon, which provides better security.
+Due to inquiries I have already written a dialect for the mongo and mysql driver. You can download them [here](dialects/)
 
-<hr >
-
-### Bugs & False positives
+## Troubleshooting
 
 If any bugs or false positives occurre **report** them [**here**](https://github.com/Clientastisch/Cardinal-Anticheat/issues/new/choose). <br>
 Otherwise I'll probably never notice them

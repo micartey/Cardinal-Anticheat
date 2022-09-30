@@ -66,7 +66,7 @@ public class Core implements Addon {
 
 ## Events
 
-As you already know, you have to implement `Listener` in a class you want to use BukkitEvents. In case you also want to use the build-in [**events**](http://cac.dodo1213.de/doc/me/clientastisch/events/event/Event.html) of the Cardinal-Anticheat you have to implement `EventListener`. That's because Cardinal-Anticheat has an entire different event-system. It's possible to use BukkitEvents and CardinalEvents in the same class by implementing both classes. However, I do not recomment that, due to the performance lose on startup.
+As you already know, you have to implement `Listener` in a class you want to use BukkitEvents. In case you also want to use the build-in [**events**](documentation/me/clientastisch/events/event/Event.html) of the Cardinal-Anticheat you have to implement `EventListener`. That's because Cardinal-Anticheat has an entire different event-system. It's possible to use BukkitEvents and CardinalEvents in the same class by implementing both classes. However, I do not recomment that, due to the performance lose on startup.
 
 ```java
 import me.clientastisch.extension.impl.event.EventListener;
@@ -145,4 +145,4 @@ public class Core implements Addon {
 
 ## Why use addons
 
-Addons are supported for every [**Spigot**](https://github.com/SpigotMC) version on which Cardinal-Anticheat is supported too. This gives you the ability to create multiversion extensions. Futhermore, you get access to a [**bunch of events**](http://cac.dodo1213.de/doc/allclasses-noframe.html) which are either packet or spigot based. You also get access to some [**player-data**](http://cac.dodo1213.de/doc/me/clientastisch/controller/PlayerController.html) collected by the anticheat which gives you some additional information which spigot doesn't provide on its own.
+Addons are supported for every Spigot version on which Cardinal-Anticheat is supported too. This gives you the ability to create multiversion extensions. Futhermore, you get access to a [**bunch of events**](documentation/allclasses-noframe.html) which are either packet or spigot based. You also get access to some [**player-data**](documentation/me/clientastisch/controller/PlayerController.html) collected by the anticheat which gives you some additional information which spigot doesn't provide on its own.

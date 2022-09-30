@@ -38,7 +38,7 @@
 
 Cardinal-Anticheat is a free spigot anticheat which blocks most of the known cheats out there. Keep in mind, that Cardinal-Anticheat is still in beta, false postives may occurre...
 
-![img](images/msedge_gqaBS6K5kn.gif)
+![img](images/ezgif.com-gif-maker.gif)
 
 Cardinal-Anticheat also contains a custom build-in replay system which is quite usable to check whether a player was cheating or not. The output-file is a .zip file ~ 5MB depending on the amount of worlds used and their size.
 
@@ -54,12 +54,7 @@ If you have any questions about the backgrounds, please contact my discord
 
 ## 📝 Getting Started
 
-Cardinal anti cheat is a great system with a lot of functionality. There are different things to consider for the different areas of application.
-
-First navigate to the [**release**](https://github.com/Clientastisch/Cardinal-Anticheat/releases) tab and download the newest version available. After the download move the jar file into the plugins folder. Reload your server and you're ready to go.
-
-- [Custom ban manager](#custom-ban-manager)
-- [Built-in ban manager](#built-in-ban-manager)
+Cardinal Anticheat is a great system with a lot of functionality. First navigate to the [**release**](https://github.com/Clientastisch/Cardinal-Anticheat/releases) tab and download the newest version available. After the download move the jar file into the plugins folder. Reload your server and you're ready to go.
 
 ### Commands
 
@@ -107,7 +102,10 @@ As already stated does Cardinal Anticheat not handle any database connections by
 
 Due to inquiries I have already written a dialect for the mongo and mysql driver. You can download them [here](dialects/)
 
-## Troubleshooting
+### Report system
 
-If any bugs or false positives occurre **report** them [**here**](https://github.com/Clientastisch/Cardinal-Anticheat/issues/new/choose). <br>
-Otherwise I'll probably never notice them
+Maybe you don't want a player to be banned right away or lower the chance of banning a legit player. For this reason it makes sense to use Cardinal's report system. Each flag is saved in the database using a [dialect](DIALECT.md) and based on the number and type of flags, a moderator can decide for himself when a player should be banned. For example you only ban the 10% of players with the most falgs each month etc. Maybe you want to introduce some form of trust factor and scale damage and recoil as a result. You might want to let players with similar trust factors play against each other. If you are a developer and want to get to implement such a system, the possibilities are limitless.
+
+### Addons
+
+Cardinal also allows loading, developing and sharing addons. There are already some addons on my [discord](https://go.lukasl.dev/cacdiscord) server. Furthermore, there is a rather good documentation for developsers on how to write your own addons [here](ADDON.md).

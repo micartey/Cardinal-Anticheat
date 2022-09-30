@@ -17,7 +17,7 @@
             height="30"
         />
     </a>
-    <a href="https://clientastisch.github.io/viro/documentation" target="_blank">
+    <a href="https://micartey.github.io/Cardinal-Anticheat/documentation" target="_blank">
         <img
             src="https://img.shields.io/badge/javadoc-reference-5272B4.svg?style=for-the-badge"
             height="30"

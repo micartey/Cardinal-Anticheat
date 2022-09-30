@@ -1,0 +1,17 @@
+me.clientastisch.checks
+me.clientastisch.controller
+me.clientastisch.core
+me.clientastisch.events
+me.clientastisch.events.event
+me.clientastisch.events.event.impl.player.actions
+me.clientastisch.events.event.impl.player.interact
+me.clientastisch.events.event.impl.player.inventory
+me.clientastisch.events.event.impl.player.movement
+me.clientastisch.events.event.impl.player.others
+me.clientastisch.events.event.impl.server.others
+me.clientastisch.events.event.impl.server.tick
+me.clientastisch.extension
+me.clientastisch.extension.impl
+me.clientastisch.extension.impl.command
+me.clientastisch.extension.impl.dialects
+me.clientastisch.extension.impl.event

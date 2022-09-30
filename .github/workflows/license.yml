@@ -1,0 +1,27 @@
+name: Update License
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 1 1 *"
+
+jobs:
+  update-license-year:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - uses: FantasticFiasco/action-update-license-year@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branchName: license/{{currentYear}}
+          commitTitle: "chore: update license year"
+          commitBody: Let's keep legal happy.
+          prTitle: "chore: update license year"
+          prBody: It's that time of the year, let's update the license.
+      - name: Merge pull request
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh pr merge --merge --delete-branch

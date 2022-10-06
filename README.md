@@ -47,8 +47,8 @@ Cardinal-Anticheat also contains a custom build-in replay system which is quite 
 **IMPORTANT NOTICE:** By downloading and using Cardinal-Anticheat you accept the following terms of use:
 
 - I allow the plugin to download source code from another computer
-- I understand that decomiling the source code is not allowed
-  - This includes the extraction and reuse of code parts
+- I understand that decomiling any related source code is strictly prohibited
+- I understand that reengineering any part of Cardinal is strictly prohibited
 
 If you have any questions about the backgrounds, please contact my discord
 

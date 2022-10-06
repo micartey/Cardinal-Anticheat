@@ -29,6 +29,7 @@
 
 <p align="center">
   <a href="#-introduction">Introduction</a> |
+  <a href="#-testserver">Testserver</a> |
   <a href="#-terms-of-use">Getting started</a> |
   <a href="https://github.com/Clientastisch/Cardinal-Anticheat/issues">Troubleshooting</a>
 </p>
@@ -41,6 +42,14 @@ Cardinal-Anticheat is a free spigot anticheat which blocks most of the known che
 ![img](images/ezgif.com-gif-maker.gif)
 
 Cardinal-Anticheat also contains a custom build-in replay system which is quite usable to check whether a player was cheating or not. The output-file is a .zip file ~ 5MB depending on the amount of worlds used and their size.
+
+## 👾 Testserver
+
+If you are interested but don't want to setup a test server to try out the anticheat, you are welcome to join the official public testserver. The server, however, runs minecraft 1.8
+
+```
+cardinal.micartey.dev
+```
 
 ## 📄 Terms of Use
 

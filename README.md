@@ -28,9 +28,9 @@
 <br />
 
 <p align="center">
-  <a href="#-introduction">Introduction</a> |
-  <a href="#-testserver">Testserver</a> |
-  <a href="#-terms-of-use">Getting started</a> |
+  <a href="#-introduction">Introduction</a> •
+  <a href="#-testserver">Testserver</a> •
+  <a href="#-terms-of-use">Getting started</a> •
   <a href="https://github.com/Clientastisch/Cardinal-Anticheat/issues">Troubleshooting</a>
 </p>
 

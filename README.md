@@ -11,7 +11,7 @@
         src="https://img.shields.io/badge/Written%20in-java-%23EF4041?style=for-the-badge"
         height="30"
     />
-    <a href="https://go.lukasl.dev/cacdiscord">
+    <a href="https://discord.gg/fxTn7v8">
         <img 
             src="https://img.shields.io/discord/647922123192533022?color=212121&label=Discord&logo=discord&logoColor=212121&style=for-the-badge"
             height="30"
@@ -119,4 +119,4 @@ Maybe you don't want a player to be banned right away or lower the chance of ban
 
 ### Addons
 
-Cardinal also allows loading, developing and sharing addons. There are already some addons on my [discord](https://go.lukasl.dev/cacdiscord) server. Furthermore, there is a rather good documentation for developsers on how to write your own addons [here](ADDON.md).
+Cardinal also allows loading, developing and sharing addons. There are already some addons on my [discord](https://discord.gg/fxTn7v8) server. Furthermore, there is a rather good documentation for developsers on how to write your own addons [here](ADDON.md).

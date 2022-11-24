@@ -12,7 +12,7 @@
         src="https://img.shields.io/badge/Written%20in-java-%23EF4041?style=for-the-badge"
         height="30"
     />
-    <a href="https://go.lukasl.dev/cacdiscord">
+    <a href="https://discord.gg/fxTn7v8">
         <img 
             src="https://img.shields.io/discord/647922123192533022?color=212121&label=Discord&logo=discord&logoColor=212121&style=for-the-badge"
             height="30"

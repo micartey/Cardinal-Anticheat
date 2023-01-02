@@ -31,7 +31,7 @@
   <a href="#-introduction">Introduction</a> •
   <a href="#-testserver">Testserver</a> •
   <a href="#-terms-of-use">Getting started</a> •
-  <a href="https://github.com/Clientastisch/Cardinal-Anticheat/issues">Troubleshooting</a>
+  <a href="https://github.com/micartey/Cardinal-Anticheat/issues">Troubleshooting</a>
 </p>
 
 

@@ -1,4 +1,4 @@
-# Cardinal-Anticheat 1.8-1.12
+# Cardinal-Anticheat 1.8 - 1.19
 
 <div align="center">
     <img src="images/banner.png" />
@@ -37,7 +37,7 @@
 
 ## 📚 Introduction
 
-Cardinal-Anticheat is a free spigot anticheat which blocks most of the known cheats out there. Keep in mind, that Cardinal-Anticheat is still in beta, false postives may occurre...
+Cardinal Anticheat is a minecraft anticheat that uses more than a hundred different checks to make players have a hard time hacking into your server. Each check is unique and designed specifically for Cardinal Anticheat. So there are currently no hack clients that can easily bypass Cardinal Anticheat. This offers a great advantage in keeping your server safe from hackers while known anti-cheats can't do the job. 
 
 ![img](images/ezgif.com-gif-maker.gif)
 
@@ -45,7 +45,7 @@ Cardinal-Anticheat also contains a custom build-in replay system which is quite 
 
 ### Testserver
 
-If you are interested but don't want to setup a test server to try out the anticheat, you are welcome to join the official public testserver. The server, however, runs minecraft 1.8
+If you are interested but don't want to buy a license right away try, you are welcome to join the official public testserver. The server, however, runs minecraft 1.8
 
 ```
 cardinal.micartey.dev
@@ -53,19 +53,9 @@ cardinal.micartey.dev
 
 In case the server is offline, please join the official discord server and give me a notice that you want to test the anticheat on the testserver.
 
-## 📄 Terms of Use
-
-**IMPORTANT NOTICE:** By downloading and using Cardinal-Anticheat you accept the following terms of use:
-
-- I allow the plugin to download source code from another computer
-- I understand that decomiling any related source code is strictly prohibited
-- I understand that reengineering any part of Cardinal is strictly prohibited
-
-If you have any questions about the backgrounds, please contact my discord
-
 ## 📝 Getting Started
 
-Cardinal Anticheat is a great system with a lot of functionality. First navigate to the [**release**](https://github.com/Clientastisch/Cardinal-Anticheat/releases) tab and download the newest version available. After the download move the jar file into the plugins folder. Reload your server and you're ready to go.
+First navigate to [BuiltByBit](https://builtbybit.com/resources/cardinal-anticheat-cac.26622/) or join the [discord](https://discord.gg/fxTn7v8) to purchase a copy and download the newest version available. After the download move the jar file into the plugins folder. Reload your server and you're ready to go. Cardinal Anticheat doesn't require any third party dependencies.
 
 ### Commands
 

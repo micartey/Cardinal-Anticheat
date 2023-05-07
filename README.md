@@ -77,18 +77,15 @@ cac import  - Import a setting from a file
 ### Permission
 
 ```text
-CAC.command       - Allows you to use most of the commands
-CAC.tabcomplete   - Allows you to use tab-completion
-CAC.flag          - Allows you to toggle /cac flag
-CAC.manage.ban    - Allows you to ban players
-CAC.manage.unban  - Allows you to unban players
-CAC.manage.report - Allows you to edit reports
-CAC.addon         - Allows you to manage addons
-CAC.proxy         - Allows you to join even though your ip might be a proxy
-CAC.config.import - Allows you to import settings
-CAC.config.export - Allows you to export settings
-CAC.replay.watch  - Allows you to watch replays
-CAC.replay.gui    - Allows you to see a list of all replays ingame
+cardinal.common.command     - Allows you to use most of the commands
+cardinal.common.tabcomplete - Allows you to use tab-completion
+cardinal.common.alerts      - Allows you to toggle /cac flag
+cardinal.common.freeze      - Allows you to ban players
+cardinal.banmanager.ban     - Allows you to ban players
+cardinal.banmanager.unban   - Allows you to unban players
+cardinal.banmanager.report  - Allows you to edit reports
+cardinal.common.addon       - Allows you to manage addons
+cardinal.common.proxy       - Allows you to join even though your ip might be a proxy
 ```
 
 ### Custom ban manager

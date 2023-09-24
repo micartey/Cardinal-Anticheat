@@ -1,4 +1,4 @@
-# Cardinal-Anticheat 1.8 - 1.19
+# Cardinal-Anticheat 1.8 - 1.20
 
 <div align="center">
     <img src="images/banner.png" />

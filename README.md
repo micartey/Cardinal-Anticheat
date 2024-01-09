@@ -19,6 +19,8 @@
     </a>
 </div>
 
+<br />
+
 > Cardinal is currently unable to run with more than 10 players on a server. It is a concept anticheat with novel approaches and hardly focuses on scalability. While this still is a priority, the network latancy it introduces create congestion if more than 10 players are active at the same time. This is an issue that needs to be resolved in the future. Apart from that, it is lightweight and won't affect your servers TPS etc.
 
 <p align="center">

@@ -58,6 +58,14 @@ Depending on who you are, you might want to look at different resources:
 
 A more indepth guide can be found on the official documentation which should be read in its fullest. Other relevant resources, information and addons can be found at [github.com/cardinalanticheat](https://github.com/cardinalanticheat).
 
-### 🔬 Troubleshooting
+### Terms of Use
+
+By downloading Cardinal you automatically agree to the following conditions:
+
+- It is prohibited to decompile or modify the plugin in any way
+- It is prohibited to claim the plugin as you own
+- It is permitted for the plugin to load code dynamically from external servers
+
+## 🔬 Troubleshooting
 
 This repository serves as an issue tracker. In case you encounter any issues, please create an issue [here](https://github.com/micartey/Cardinal-Anticheat/issues/new/choose).

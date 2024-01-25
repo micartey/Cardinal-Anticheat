@@ -3,7 +3,8 @@ description: Describe a bypass you noticed
 title: "Bypass | "
 labels: ["Bypass"]
 
-assignees: ["micartey"]
+assignees:
+  - micartey
 
 body:
   - type: textarea

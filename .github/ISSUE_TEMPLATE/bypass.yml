@@ -1,0 +1,63 @@
+name: Bypass
+description: Describe a bypass you noticed
+title: "Bypass | "
+labels: ["Bypass"]
+
+assignees: ["micartey"]
+
+body:
+  - type: textarea
+    id: 1
+    attributes:
+      label: "Information"
+      description: |
+        What kind of bypass did you find?
+        What are the advantages?
+    validations:
+      required: true
+
+  - type: textarea
+    id: 2
+    attributes:
+      label: "Client"
+      description: |
+        Please provide a link to the client
+    validations:
+      required: true
+
+  - type: textarea
+    id: 3
+    attributes:
+      label: "Cardinal Version"
+      description: |
+        What version of cardinal are you running?
+        Please provide the full version qualifier (you can get it by executing /cac)
+    validations:
+      required: true
+
+  - type: textarea
+    id: 4
+    attributes:
+      label: "Spigot Version"
+      description: |
+        What version of minecarft are you running?
+        Are you using a specific vendor?
+    validations:
+      required: true
+
+
+  - type: textarea
+    id: 5
+    attributes:
+      label: "Video"
+      description: |
+        Please upload a video of the bypass
+    validations:
+      required: true
+
+  - type: textarea
+    id: 6
+    attributes:
+      label: "Additional information"
+    validations:
+      required: false

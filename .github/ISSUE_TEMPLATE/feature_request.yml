@@ -1,0 +1,37 @@
+name: Feature Request
+description: Suggest a feature to improve the plugin
+title: "Feature Request | "
+labels: ["Feature Request"]
+
+assignees:
+  - micartey
+
+body:
+  - type: textarea
+    id: 1
+    attributes:
+      label: "Information"
+      description: |
+        Please provide some information about the feature you would like to be implemented.
+        Is it related to an existing problem/bug/issue?
+        Are there any screenshots or videos showcasing the feature to better understand your request?
+    validations:
+      required: true
+
+  - type: textarea
+    id: 2
+    attributes:
+      label: "Reason"
+      description: |
+        Is there a specific reason why you would like this feature to be implemented?
+    validations:
+      required: true
+
+  - type: textarea
+    id: 3
+    attributes:
+      label: "Additional information"
+      description: |
+        Is there any additional information you would like to provide?
+    validations:
+      required: false

@@ -1,0 +1,55 @@
+name: Bug Report
+description: Describe a bug you noticed
+title: "Bug Report | "
+labels: ["Bug Report"]
+
+assignees:
+  - micartey
+
+body:
+  - type: textarea
+    id: 1
+    attributes:
+      label: "Information"
+      description: |
+        What kind of bug are you encountering?
+        What is the cause?
+    validations:
+      required: true
+
+  - type: textarea
+    id: 2
+    attributes:
+      label: "When does the bug occure?"
+      description: |
+        What are you flagged for?
+        What message is being displayed?
+    validations:
+      required: true
+
+  - type: textarea
+    id: 3
+    attributes:
+      label: "Cardinal Version"
+      description: |
+        What version of cardinal are you running?
+        Please provide the full version qualifier (you can get it by executing /cac)
+    validations:
+      required: true
+
+  - type: textarea
+    id: 4
+    attributes:
+      label: "Spigot Version"
+      description: |
+        What version of minecarft are you running?
+        Are you using a specific vendor?
+    validations:
+      required: true
+
+  - type: textarea
+    id: 5
+    attributes:
+      label: "Additional information"
+    validations:
+      required: false

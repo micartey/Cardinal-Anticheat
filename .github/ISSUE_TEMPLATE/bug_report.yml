@@ -8,7 +8,7 @@ assignees:
 
 body:
   - type: textarea
-    id: 1
+    id: general
     attributes:
       label: "Information"
       description: |
@@ -18,7 +18,7 @@ body:
       required: true
 
   - type: textarea
-    id: 2
+    id: info
     attributes:
       label: "When does the bug occure?"
       description: |
@@ -28,7 +28,7 @@ body:
       required: true
 
   - type: textarea
-    id: 3
+    id: version
     attributes:
       label: "Cardinal Version"
       description: |
@@ -38,7 +38,7 @@ body:
       required: true
 
   - type: textarea
-    id: 4
+    id: spigot
     attributes:
       label: "Spigot Version"
       description: |
@@ -48,7 +48,7 @@ body:
       required: true
 
   - type: textarea
-    id: 5
+    id: additional
     attributes:
       label: "Additional information"
     validations:

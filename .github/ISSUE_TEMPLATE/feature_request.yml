@@ -8,7 +8,7 @@ assignees:
 
 body:
   - type: textarea
-    id: 1
+    id: general
     attributes:
       label: "Information"
       description: |
@@ -19,7 +19,7 @@ body:
       required: true
 
   - type: textarea
-    id: 2
+    id: reason
     attributes:
       label: "Reason"
       description: |
@@ -28,7 +28,7 @@ body:
       required: true
 
   - type: textarea
-    id: 3
+    id: additional
     attributes:
       label: "Additional information"
       description: |

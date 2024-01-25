@@ -8,7 +8,7 @@ assignees:
 
 body:
   - type: textarea
-    id: 1
+    id: general
     attributes:
       label: "Information"
       description: |
@@ -18,7 +18,7 @@ body:
       required: true
 
   - type: textarea
-    id: 2
+    id: client
     attributes:
       label: "Client"
       description: |
@@ -27,7 +27,7 @@ body:
       required: true
 
   - type: textarea
-    id: 3
+    id: version
     attributes:
       label: "Cardinal Version"
       description: |
@@ -37,7 +37,7 @@ body:
       required: true
 
   - type: textarea
-    id: 4
+    id: spigot
     attributes:
       label: "Spigot Version"
       description: |
@@ -48,7 +48,7 @@ body:
 
 
   - type: textarea
-    id: 5
+    id: video
     attributes:
       label: "Video"
       description: |
@@ -57,7 +57,7 @@ body:
       required: true
 
   - type: textarea
-    id: 6
+    id: additional
     attributes:
       label: "Additional information"
     validations:

@@ -1,4 +1,4 @@
-# Cardinal-Anticheat 1.8 - 1.20
+# Cardinal-Anticheat ~ 1.8 - 1.20, Bedrock
 
 <div align="center">
     <img src="images/banner.png" />
@@ -31,9 +31,11 @@
 
 ## 📚 Introduction
 
-Cardinal Anticheat is a minecraft anticheat that uses more than a hundred different checks to make players have a hard time hacking into your server. Each check is unique and designed specifically for Cardinal Anticheat. So there are currently no hack clients that can easily bypass Cardinal Anticheat. This offers a great advantage in keeping your server safe from hackers while known anti-cheats can't do the job. 
+Cardinal Anticheat is a minecraft anticheat that a number of different checks to make players have a hard time cheating on your server. Each check is unique and designed specifically for Cardinal Anticheat. Therefore, there are currently no known clients that can easily bypass Cardinal Anticheat. This offers a great advantage in keeping your server safe from hackers while known anticheats can't do the job. 
 
 ![img](images/ezgif.com-gif-maker.gif)
+
+> This anticheat is also one of a few that supports Minecraft Bedrock with Geyser (Floodgate) fully - This includes the detection of cheating bedrock players and not whitelisting which is often considered as "support" by other anticheats
 
 ### Motivation
 
@@ -41,7 +43,7 @@ I started making this 4-5 years ago. Since then the project went through several
 
 ### Testserver
 
-Cardinal has a public testserver which is available via the following ip/domain. The server runs on Minecraft 1.8 but newer versions work as well thanks to ViaVersion.
+Cardinal has a public testserver which is available via the following ip/domain
 
 ```
 cardinal.micartey.dev
@@ -64,7 +66,7 @@ By downloading Cardinal you automatically agree to the following conditions:
 
 - It is prohibited to decompile or modify the plugin in any way
 - It is prohibited to claim the plugin as you own
-- It is permitted for the plugin to load code dynamically from external servers
+- It is permitted for the plugin to load code dynamically from external servers at startup
 
 ## 🔬 Troubleshooting
 

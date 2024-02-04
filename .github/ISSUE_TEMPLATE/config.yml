@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://cardinalanticheat.github.io/documentation/
+    about: Please check the documentation
+  - name: Dev Builds
+    url: https://cardinalanticheat.github.io/documentation/configuration/versioning/
+    about: Before creating an issue, please check if the nightly release fixes the issue
+  - name: Cardinal Anticheat Discord
+    url: https://discord.gg/fxTn7v8
+    about: For questions, you can also join the Discord server.

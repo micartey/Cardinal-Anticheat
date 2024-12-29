@@ -1,4 +1,4 @@
-# Cardinal-Anticheat ~ 1.8 - 1.20, Bedrock
+# Cardinal-Anticheat ~ 1.8 - 1.21, Bedrock
 
 <div align="center">
     <img src="images/banner.png" />

@@ -46,6 +46,7 @@ It also serves as a playground for new things I learn.
         src="https://status.micartey.dev/api/badge/5/status?downColor=%23F75270&maintenanceColor=%23F75270&style=for-the-badge"
         height="30"
     />
+    <br />
 </div>
 
 Cardinal has a public testserver which is available via the following ip/domain

@@ -3,8 +3,8 @@ contact_links:
   - name: Documentation
     url: https://cardinalanticheat.github.io/documentation/
     about: Please check the documentation
-  - name: Dev Builds
-    url: https://cardinalanticheat.github.io/documentation/configuration/versioning/
+  - name: Nightly Releases
+    url: https://cardinalanticheat.github.io/documentation/checklist/versioning/#use-unreleased-versions
     about: Before creating an issue, please check if the nightly release fixes the issue
   - name: Cardinal Anticheat Discord
     url: https://discord.gg/fxTn7v8
